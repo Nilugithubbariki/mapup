@@ -21,7 +21,7 @@ Installation and Setup
 
 Clone the repo
 
-git clone https://github.com/Sharangs123/mapup-frontend-assignment.git
+git clone https://github.com/Nilugithubbariki/mapup.git
 
 Install packages
 
